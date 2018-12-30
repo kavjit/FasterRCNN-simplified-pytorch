@@ -1,0 +1,7 @@
+torchvision
+scikit-image==0.14.1
+tqdm
+matplotlib
+ipdb
+cython
+git+https://github.com/pytorch/tnt.git@master
